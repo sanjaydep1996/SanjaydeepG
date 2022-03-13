@@ -1,35 +1,32 @@
-Landed by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Sanjaydeep G
+Software Development Engineer - II
+A product developer who wants to become a part of vibrant organization, exhibit technical skills, contribute towards upliftment personally and professionally.
+
+PROFESSIONAL EXPERIENCE
+************************
+Software Development Engineer 2 at Blackboard Inc.
+08/2021 — Present
+
+Software Engineer - Accenture
+06/2020 — 08/2021
+Associate Software Engineer - Accenture
+04/2018 — 05/2020
+
+Projects:
+*********
+Blackboard Learn - (08/2021 - Present)
+KPATHS - (09/2019 - 08/2021)
+Clinical Data Information Systems(CDIS) - 10/2018 - 09/2019
+Health Foundation (Kaiser Permanente) - 06/2018 - 10/2018
+
+SKILLS & PROFICIENCIES
+**********************
+Angular 8 | TypeScript | JSON | HTML5 | CSS3 | JavaScript | Java
+Agile | Scrum | Waterfall Methodologies | JIRA | Jenkins |
+Kanban Board | TDD | Blockchain(Novice) | Confluence |Oracle SQL | MySQL
 
 
-A dark, slick, modern, responsive, adjective-drenched design built around an extremely
-dynamic landing page (scroll that mofo!). Inspired by Big Picture, another design
-of mine with a similarish feel/flow, only this time I took it waaaaaay further and
-actually made it multipurpose (versus copping out and making it a one pager like I
-did last time ;) Includes multiple pages, a bunch of pre-styled elements, and all
-its Sass sources.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+EDUCATIONAL BACKGROUND
+**********************
+B.E - Computer Science & Engineering
+Sri Krishna College of Engineering and Technology, 2014 - 2018 | Coimbatore
