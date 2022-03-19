@@ -33,6 +33,13 @@ body {
 	line-height: 1;
 }
 
+.avatar {
+	vertical-align: middle;
+	width: 60px;
+	height: 50px;
+	border-radius: 70%;
+  }
+  
 ol, ul {
 	list-style: none;
 }
