@@ -43,7 +43,10 @@ body {
 ol, ul {
 	list-style: none;
 }
-
+iframe {
+	overflow: hidden;
+	position: relative;
+}
 blockquote, q {
 	quotes: none;
 }
